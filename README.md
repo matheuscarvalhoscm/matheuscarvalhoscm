@@ -12,6 +12,4 @@
   </a>
 </div>
 
-[![](https://badges.lastfm.workers.dev/last-played?user=m4theus1&style=for-the-badge)](https://www.last.fm/user/matheus1)
-
 <hr>
