@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/matheuscarvalhoscm/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  [![](https://badges.lastfm.workers.dev/last-played?user=m4theus1&style=for-the-badge)](https://www.last.fm/user/matheus1)
 </div>
 
 <hr>
