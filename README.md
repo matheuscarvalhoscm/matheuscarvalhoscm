@@ -54,5 +54,3 @@
 </div>
 
 <hr>
-
-![](https://komarev.com/ghpvc/?username=matheuscarvalhoscm&color=grey&style=for-the-badge)
