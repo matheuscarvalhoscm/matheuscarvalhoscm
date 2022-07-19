@@ -2,7 +2,7 @@
   <img src="https://s8.gifyu.com/images/Hello-There-I-am-Matheus.26fd5087953a1804.gif" />
 </div>
 
----
+<br/>
 
 <p align="center">
   <strong>I am a Jr. Full-Stack Developer based in São Paulo, Brazil.</strong> <br />
