@@ -33,12 +33,9 @@
 </h2>
 
 <h2 align="center"> Feel free to get in touch :) <br/><br/>
-  <div align="center">
-    <a href="mailto:matheuscarvalhoscm@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=165721" />
-    </a>
-    <a href="https://www.linkedin.com/in/matheuscarvalhoscm/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=165721" />
-    </a>
-  </div>
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=165721)](https://www.linkedin.com/in/matheuscarvalhoscm/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=165721)](mailto:matheuscarvalhoscm@gmail.com)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&color=165721)](https://www.hackerrank.com/matheuscarvalho3)
+  
 </h2>
