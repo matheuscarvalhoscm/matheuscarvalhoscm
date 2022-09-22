@@ -7,7 +7,7 @@
 <p align="center">
   <strong>I am a Jr. Full-Stack Developer based in São Paulo, Brazil.</strong> <br />
   I love design and working in front-end projects. I'm constantly learning new technologies and improving my skills to do my best in this world. <br />
-  I'm passionate about music, festivals and <i>trashy</i> horror movies 🧟
+  I like music, festivals and <i>trashy</i> horror movies 🧟
 </p>
 
 
