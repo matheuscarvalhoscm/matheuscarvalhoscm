@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <strong>I am a Jr. Full-Stack Developer based in São Paulo, Brazil.</strong> <br />
+  <strong>I'm Software Developer based in São Paulo, Brazil.</strong> <br />
   I love design and working in front-end projects. I'm constantly learning new technologies and improving my skills to do my best in this world. <br />
   I like music, festivals and <i>trashy</i> horror movies 🧟
 </p>
